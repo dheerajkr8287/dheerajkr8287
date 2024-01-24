@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+
 ## Hey 👋, I'm Dheeraj kumar.  
 <img align="right" alt="Darker" width="400" src="https://img.freepik.com/premium-vector/hacker-attacks-web-security-hacker-cybercriminal-with-laptop-stealing-user-s-personal-data_630277-369.jpg">
   
