@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Java & Networking**
+- 🌱 I’m currently learning **Java FullStack & DSA**
 
 - 💬 Ask me about **Java**
 
