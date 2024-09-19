@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 Darker Here..!</h1>
 <div align="center">
-  <img src="https://abdulkshahid.github.io/img/portfolio/javaGif.gif" >
+  <img src="https://abdulkshahid.github.io/img/portfolio/javaGif.gif"  width=750 height=500>
 </div>
 <h3 align="center">I passionate about Java full Stack,Networking & Cyber Security from India.</h3>
 
