@@ -11,7 +11,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Java Development & DSA** with a focus on **Networking and Cybersecurity**.
+- 🌱 I’m currently learning **Java Backend & DSA** with a focus on **Networking and Cybersecurity**.
 - 💬 Ask me about **Java, Networking, and Cybersecurity**.
 - 📫 How to reach me: **dheerajkr49269@gmail.com**.
 - ⚡ Fun fact: **I’m known as Darker in the darknet!** 😎
