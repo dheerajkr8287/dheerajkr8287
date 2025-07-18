@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Darker 👋</h1>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="Darker Gif" width="400">
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/375672917/original/7d314f57f33aa4f8bc7f16ef818784f57950e9aa/develop-web-app-using-java-springboot-mysql-reids-rabbitmq.jpeg" alt="Darker Gif" width="400">
 </div>
 <h3 align="center">🚀 Java Developer | ☁️ Networking Enthusiast | 🔒 Cybersecurity Explorer</h3>
 
@@ -11,8 +11,8 @@
 
 ---
 
-- 🌱 I’m currently learning **Java Backend & DSA** with a focus on **Spring and Spring Boot**.
-- 💬 Ask me about **Java, Networking, and Cybersecurity**.
+- 🌱 I’m currently learning **Java Backend & DSA** with a focus on **SPRING MVC AND SECURITY**.
+- 💬 Ask me about **Java, SpringBoot,JavaScript,SQL**.
 - 📧 How to reach me: **dheerajkr49269@gmail.com**.
 - ⚡ Fun fact: **I’m known as Darker in the darknet!** 😎
 
@@ -33,6 +33,8 @@
 <h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://dominickm.com/wp-content/uploads/2016/06/spring-boot-logo_full.png" alt="Springboot" width="40" height="40"/>
+  <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="thymeleaf" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
