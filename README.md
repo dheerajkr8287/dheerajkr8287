@@ -11,7 +11,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Java Backend & DSA** with a focus on **SPRING MVC AND SECURITY**.
+- 🌱 I’m currently learning **Java Backend & DSA** with a focus on **SPRING AI AND MICROSERVICES**.
 - 💬 Ask me about **Java, SpringBoot,JavaScript,SQL**.
 - 📧 How to reach me: **dheerajkr49269@gmail.com**.
 - ⚡ Fun fact: **I’m known as Darker in the darknet!** 😎
